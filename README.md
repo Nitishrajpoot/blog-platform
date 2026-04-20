@@ -260,12 +260,20 @@ PORT=5000
 
 This project is licensed under the **MIT License**.
 
+## 🌐 Live Demo
+
+🚀 The application is live and hosted on Render:
+    https://blogposta.netlify.app/
+### 📌 Description
+This is a full-stack blogging platform where users can:
+- Sign up and log in securely (JWT Authentication)
+- Create, edit, and delete blog posts
+- Like and comment on posts
+- Access admin dashboard features
+
+> ⏳ Note: Initial load may take 30–60 seconds due to free hosting.    
+
 ---
-
-## 👩‍💻 Author
-
-**Nomita Singh**
-GitHub: https://github.com/nomita1303
 
 ---
 >>>>>>> 6218f10ab0f2de633580e856d563b128efdd5ce1
