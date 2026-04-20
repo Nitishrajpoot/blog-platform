@@ -273,6 +273,17 @@ This is a full-stack blogging platform where users can:
 
 > ⏳ Note: Initial load may take 30–60 seconds due to free hosting.    
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 🔐 Login Page
+![Login](./screenshots/login.png)
+
+### 📰 Blog List Page
+![Blog List](./screenshots/blog.png)
+
 ---
 
 ---
